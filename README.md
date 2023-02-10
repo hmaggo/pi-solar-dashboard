@@ -1,4 +1,6 @@
 # solar-dashboard
+#Live Demo
+https://quirky-benz-875826.netlify.app/#/
 
 ## Project setup
 ```
